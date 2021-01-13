@@ -15,8 +15,5 @@ api_keys.py
 .ipynb_checkpoints/
 *.ipynb
 
-### csv ###
-*.csv
-
-### DS Store ###
-.DS_Store
+## VS Code ##
+.vscode/
