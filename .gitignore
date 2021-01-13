@@ -16,4 +16,8 @@ api_keys.py
 *.ipynb
 
 ## VS Code ##
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+>>>>>>> 8ca4f38f6fba05d728bdea62842abb6a959dee9d
